@@ -6,7 +6,7 @@
 ---
 
 ## About me
-2.5+ years at Flipkart (Walmart Group) building forecasting models,
+3+ years at Flipkart (Walmart Group) building forecasting models,
 automated pipelines, and dashboards that drove real supply chain outcomes.
 Now deepening my expertise in ML and AI at RMIT — with a focus on
 RAG systems, NLP, and operational analytics.

@@ -21,7 +21,7 @@ RAG systems, NLP, and operational analytics.
 ## 📌 Featured projects
 | Project | What it does |
 |---|---|
-| [Inventory ML Model]([#](https://github.com/Pranavks27/inventory-ml-model)) | Predicts reservations to cut manual warehouse moves by 8% |
+| [Inventory ML Model](https://github.com/Pranavks27/inventory-ml-model) | Predicts reservations to cut manual warehouse moves by 8% |
 | [Supply Chain Dashboard](#) | KPI tracker that cut stuck orders from 0.8% → 0.1% |
 | [Inventory Health Scorer](#) | SQL-based methodology; lifted lowest facility score by 27% |
 | [VisaMate — AI Visa Navigator](https://github.com/Pranavks27/visamate) | RAG chatbot for Australian student visa guidance |

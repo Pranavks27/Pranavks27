@@ -24,7 +24,7 @@ RAG systems, NLP, and operational analytics.
 | [Inventory ML Model](#) | Predicts reservations to cut manual warehouse moves by 8% |
 | [Supply Chain Dashboard](#) | KPI tracker that cut stuck orders from 0.8% → 0.1% |
 | [Inventory Health Scorer](#) | SQL-based methodology; lifted lowest facility score by 27% |
-| [AI Visa Navigator](#) | RAG chatbot for Australian student visa guidance |
+| [VisaMate — AI Visa Navigator](https://github.com/Pranavks27/visamate) | RAG chatbot for Australian student visa guidance |
 
 ## 📫 Get in touch
 kspranav2000@gmail.com · [LinkedIn](https://linkedin.com/in/pranav-ks)
